@@ -1,5 +1,12 @@
-.venv/
+.vscode/
 __pycache__/
 *.pyc
-instance/
-.env
+*.zip
+*.jpg
+*.pdf
+*.docx
+*.pptx
+*.ini
+AppData/
+Documents/
+Pictures/
